@@ -22,7 +22,5 @@ public class Main {
         hand.add(new Card(Face.JACK, Suit.HEARTS, 11));
         hand.add(new Card(Face.TWO, Suit.DIAMONDS, 2));
         hand.add(new Card(Face.TWO, Suit.CLUBS, 2));
-
-        // Additional logic or demonstration can be added here for working with the hand of cards.
     }
 }
